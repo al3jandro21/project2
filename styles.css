@@ -5,7 +5,8 @@ h1 {
     text-transform: uppercase;
 }
 h1 {
-    
+    color: R:255 G:29 B:159;
+    font-size: 40 px;
 }
 p {
     font-family: 'Roboto', sans-serif;
