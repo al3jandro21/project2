@@ -64,7 +64,9 @@ img {
     background: greenyellow;
 }
 .list li + li {
-    display: inline-block; 
-    2px solid #FF1D25;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10; 
+    border-left: 2px solid #FF1D25;
     line-height: 20px;
 }
