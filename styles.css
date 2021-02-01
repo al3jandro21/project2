@@ -18,7 +18,7 @@ body {
 h2 {
     font-family: "Carter One", cursive;
     text-transform: uppercase;
-    text-align: ;
+    text-align: left;
 }
 h2{
     color: #FF1D25;
@@ -34,6 +34,7 @@ h3 {
     font-family: "Carter One", cursive;
     color: #FF1D25;
     font-size: 40px;
+    text-align: left;
 }
 ul {
     font-family: "Roboto", sans-serif;
