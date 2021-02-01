@@ -44,3 +44,7 @@ ul {
 img {
     float: center;
 }
+.list li + li {
+    border-left: 2px solid red;
+    line-height: 20px;
+}
