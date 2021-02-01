@@ -29,6 +29,11 @@ h2 {
     margin: 0;
     line-height: 1;
 }
+h3 {
+    font-family: "Carter One", cursive;
+    color: #FF1D25;
+    font-size: 40px;
+}
 ul {
     font-family: "Roboto", sans-serif;
     color: rgb(255,29,159);
