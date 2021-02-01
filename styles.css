@@ -2,13 +2,13 @@
     box-sizing:border-box;
 }
 body {
-    background-color:rgb
+    background-color:rgb(0,0,0)
 }
 h1 {
     font-family: 'Carter One', cursive;
     text-transform: uppercase;
-    color: R:255 G:29 B:159;
-    font-size: 40 px;
+    color:rgb(255,29,159);
+    font-size: 40px;
 }
 p {
     font-family: 'Roboto', sans-serif;
